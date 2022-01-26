@@ -1,1 +1,1 @@
-print ("This is the course information: CSI 3370/Software Engineer and Practice")
+print ("This is the course information: CSI 2300/Software Engineer and Practice")
